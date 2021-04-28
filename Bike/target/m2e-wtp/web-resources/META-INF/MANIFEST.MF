@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: alexd
+Build-Jdk: 15.0.1
+Implementation-Title: Bike
+Implementation-Version: 2.1.5.RELEASE
+Implementation-Vendor-Id: com.educacionit
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Bike
+Created-By: Maven Integration for Eclipse
+
